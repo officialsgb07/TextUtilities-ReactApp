@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Trial-One/static/css/main.a8032367.css",
+    "main.js": "/Trial-One/static/js/main.39cbbd4c.js",
+    "static/js/453.ed3810f9.chunk.js": "/Trial-One/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Trial-One/index.html",
+    "main.a8032367.css.map": "/Trial-One/static/css/main.a8032367.css.map",
+    "main.39cbbd4c.js.map": "/Trial-One/static/js/main.39cbbd4c.js.map",
+    "453.ed3810f9.chunk.js.map": "/Trial-One/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8032367.css",
+    "static/js/main.39cbbd4c.js"
+  ]
+}
